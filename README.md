@@ -1,4 +1,9 @@
 # Seon-Ha Hwang 🙂
+"Welcome to the extremely asusun world!"
+
+<br />
+
+---
 
 ## 📌 Experience & Education
 
