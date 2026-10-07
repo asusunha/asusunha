@@ -1,7 +1,7 @@
 # Sun-Ha Hwang (황선하)
 
 B.S. student in Software Engineering, Chonnam National University  
-**Interests:** Computer Vision / On-Device AI & Edge Computing / 3D Vision & 3D Reconstruction
+**Interests:** Computer Vision / On-Device AI / 3D Vision
 
 ✉️ tnqkrdldi90@gmail.com
 
@@ -19,8 +19,6 @@ B.S. student in Software Engineering, Chonnam National University
 ## Projects
 - [온디바이스 박과 작물 병해 진단 앱](링크)
 - [뇌 혈류 영상 자동 분석기](링크)
-- [AI 네컷 뉴스 카드 생성기](링크)
-- [VLM 기반 산불 위험도 감지 시스템](링크)
 
 ## Skills
 Python (PyTorch, OpenCV) · Linux
